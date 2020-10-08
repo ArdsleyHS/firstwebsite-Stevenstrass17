@@ -1,13 +1,9 @@
-# First Website
-
-This is the empty repo for the first website we'll create in Intro to CS this year.
-
-> Readme files (like this page) are meant to be descriptive about the project. They are NOT written in HTML, this is a language called [Markdown](https://guides.github.com/features/mastering-markdown/).
-
-> You'll notice some blank files in this repo that we'll use to build things and practice. Feel free to add more as necessary and customize everything here.
-
-----
-### Helpful Resources
-
-1. [CodeHS](http://www.codehs.com) (especially the docs to look things up quickly).
-2. [W3 Schools](https://www.w3schools.com/)
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Most infuential Supercars of All Time<title>
+  <head>
+  <hr>
+    <Body>
+    <h1>  If you head to a fancy car show today, you would be able to see all of these cool new sports cars and supercars made by the likes of Ferrari, Mclaren, Lamborghini,and many others.  These new cars are the fastest and most technologically advanced there have ever been.  Lets take a look at some of the most influential and revolutionary cars that paved the way for these modern day marvels.</h1>
+    
