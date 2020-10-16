@@ -10,17 +10,20 @@
   <table>
       <table border="1">
         <tr>
-          <th>Sunday</th>
+          <th>Car</th>
           <th>Monday</th>
+          <th>Tuesday</th>
           <th>Tuesday</th>
         </tr>
         <tr>
-            <td>Leftovers</td>
+            <td>Top Speed</td>
+            <td>Cereal</td>
             <td>Cereal</td>
             <td>Cereal</td>
         </tr>
             <tr>
-                <td>Watch Football</td>
+                <td>Cost</td>
+                <td>School</td>
                 <td>School</td>
                 <td>School</td>
              </tr>
