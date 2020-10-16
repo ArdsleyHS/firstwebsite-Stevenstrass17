@@ -6,26 +6,27 @@
   <head>
   <hr>
     <Body>
-    <h1>  Cars have come along way in the past few years, and are way faster then cars have ever been in the past.  With new aerodynamics, huge engines, and lightweight bodies, these cars are some of the most rare and special cars you might ever see.  And the speeds that these cars can go is astoundingly quick. </h1>
+    <h1>  Cars have come along way in the past few years, and are way faster then cars have ever been in the past.  With new aerodynamics, huge engines, and lightweight bodies, these cars are some of the most rare and special cars you might ever see.  The speeds that these cars can go are astoundingly quick. 
+      </h1>
   <table>
       <table border="1">
         <tr>
           <th>Car</th>
-          <th>Monday</th>
-          <th>Tuesday</th>
-          <th>Tuesday</th>
+          <th>Bugatti Chiron Super Sport 300+</th>
+          <th>Koenigsegg Agera RS</th>
+          <th>Hennessy Venom GT</th>
         </tr>
         <tr>
             <td>Top Speed</td>
-            <td>Cereal</td>
-            <td>Cereal</td>
-            <td>Cereal</td>
+            <td>304 MPH</td>
+            <td>278 MPH</td>
+            <td>270 MPH</td>
         </tr>
             <tr>
                 <td>Cost</td>
-                <td>School</td>
-                <td>School</td>
-                <td>School</td>
+                <td>$3.8 million</td>
+                <td>$2.5 Million</td>
+                <td>$1.2 Million</td>
              </tr>
          <table>
                 
