@@ -30,11 +30,11 @@
              </tr>
          </table>
            <body>
-             <a href="https://www.topspeed.com/cars/the-10-fastest-cars-in-the-world-ranked-ar188274.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOb_V8OyI77woJ14UYbBp-WdEdipY0UOw65Q&usqp=CAU"
+             <a href="https://www.topspeed.com/cars/the-10-fastest-cars-in-the-world-ranked-ar188274.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQOb_V8OyI77woJ14UYbBp-WdEdipY0UOw65Q&usqp=CAU width="150px" height="100px""
                                                                                  </body> 
                <h2> Bugatti Chiron Super Sport 300+ </h2>
                <body>
-             <a href="https://www.topspeed.com/cars/the-10-fastest-cars-in-the-world-ranked-ar188274.html"><img src="https://buildpriceoption.com/wp-content/uploads/2018/08/koenigsegg-agera-rs-1024x683.jpg"
+             <a href="https://www.topspeed.com/cars/the-10-fastest-cars-in-the-world-ranked-ar188274.html"><img src="https://buildpriceoption.com/wp-content/uploads/2018/08/koenigsegg-agera-rs-1024x683.jpg width="150px" height="100px""
                                                                                  </body>
                <h2> Koenigsegg Agera RS </h2>
            
