@@ -10,7 +10,7 @@
       </h1>
   <table>
       <table border="1">
-        <tr>
+        <tr style="background-color:#5f9ea0;">
           <th>Car</th>
           <th>Bugatti Chiron Super Sport 300+</th>
           <th>Koenigsegg Agera RS</th>
