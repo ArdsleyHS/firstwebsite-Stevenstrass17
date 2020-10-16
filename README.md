@@ -5,7 +5,7 @@
   <titleFastest Road Legal Cars.<title>
   <head>
   <hr>
-    <Body style="background-color:red;">
+    <Body>
     <h1>  Cars have come along way in the past few years, and are way faster then cars have ever been in the past.  With new aerodynamics, huge engines, and lightweight bodies, these cars are some of the most rare and special cars you might ever see.  The speeds that these cars can go are astoundingly quick. 
       </h1>
   <table>
@@ -28,5 +28,9 @@
                 <td>$2.5 Million</td>
                 <td>$1.2 Million</td>
              </tr>
-         <table>
+         </table>
+           <body>
+             <a href="https://en.wikipedia.org/wiki/Badlands_National_Park"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/MK00609_Badlands.jpg/568px-MK00609_Badlands.jpg"
+                                                                                 </body>                                                                      
+           
                 
