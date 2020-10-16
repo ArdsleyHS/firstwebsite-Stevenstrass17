@@ -5,7 +5,7 @@
   <titleFastest Road Legal Cars.<title>
   <head>
   <hr>
-    <Body >
+    <body style="background-color:red;">
     <h1>  Cars have come a long way in the past few years, and are way faster then cars have ever been in the past.  With new aerodynamics, huge engines, and lightweight bodies, these cars are some of the most rare and special cars you might ever see.  The speeds that these cars can go are astoundingly quick. 
       </h1>
   <table>
@@ -29,7 +29,7 @@
                 <td>$1.2 Million</td>
              </tr>
          </table>
-           <body style="background-color:powderblue;">
+           <body>
              <a href="https://www.topspeed.com/cars/the-10-fastest-cars-in-the-world-ranked-ar188274.html"><img src="https://s1.cdn.autoevolution.com/images/gallery/BUGATTI-Chiron-Super-Sport-300-6665_4.jpg"
                                                                                  </body> 
                <h2> Bugatti Chiron Super Sport 300+ </h2>
