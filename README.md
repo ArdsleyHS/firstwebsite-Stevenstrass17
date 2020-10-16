@@ -7,7 +7,7 @@
   <hr>
     <Body>
     <h1>  Cars have come along way in the past few years, and are way faster then cars have ever been in the past.  With new aerodynamics, huge engines, and lightweight bodies, these cars are some of the most rare and special cars you might ever see.  And the speeds that these cars can go is astoundingly quick. </h1>
-    
+  <table>
       <table border="1">
         <tr>
           <th>Sunday</th>
@@ -23,4 +23,6 @@
                 <td>Watch Football</td>
                 <td>School</td>
                 <td>School</td>
+             </tr>
+         <table>
                 
