@@ -2,9 +2,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title>Most infuential Supercars of All Time<title>
+  <titleFastest Road Legal Cars.<title>
   <head>
   <hr>
     <Body>
-    <h1>  If you head to a fancy car show today, you would be able to see all of these cool new sports cars and supercars made by the likes of Ferrari, Mclaren, Lamborghini,and many others.  These new cars are the fastest and most technologically advanced there have ever been.  Lets take a look at some of the most influential and revolutionary cars that paved the way for these modern day marvels.</h1>
+    <h1>  Cars have come along way in the past few years, and are way faster then cars have ever been in the past.  With new aerodynamics, huge engines, and lightweight bodies, these cars are some of the most rare and special cars you might ever see.  And the speeds that these cars can go is astoundingly quick. </h1>
     
+<h2> 
