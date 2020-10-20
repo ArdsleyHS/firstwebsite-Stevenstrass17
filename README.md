@@ -5,7 +5,7 @@
   <titleFastest Road Legal Cars.<title>
   <head>
   <hr>
-    <body style="background-color#5f9ea0;">
+    <body style="background-color:white">
     <h1>  Cars have come a long way in the past few years, and are way faster then cars have ever been in the past.  With new aerodynamics, huge engines, and lightweight bodies, these cars are some of the most rare and special cars you might ever see.  The speeds that these cars can go are astoundingly quick. 
       </h1>
   <table>
