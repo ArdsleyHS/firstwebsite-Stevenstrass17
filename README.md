@@ -38,12 +38,10 @@
                                                                                  </body>
                <h2> Koenigsegg Agera RS </h2>
     <body>
-             <a href="https://www.topspeed.com/cars/the-10-fastest-cars-in-the-world-ranked-ar188274.html"><img src="https://cdn.carbuzz.com/gallery-images/1600/594000/700/594783.jpg"
+             <a href="https://www.topspeed.com/cars/the-10-fastest-cars-in-the-world-ranked-ar188274.html"><img src="https://images.hgmsites.net/hug/2016-hennessey-venom-gt-spyder-naval-air-station-lemoore_100554253_h.jpg"
                                                                                  </body>
                <h2> Hennsesy Venom GT </h2>
-               <body>
-             <a href="https://cdn.motor1.com/images/mgl/Z8ObZ/s1/hennessey-venom-gt-spyder-world-record-attempt.jpg"><img src="https://cdn.carbuzz.com/gallery-images/1600/594000/700/594783.jpg"
-                                                                                 </body>
+               
             
                
            
