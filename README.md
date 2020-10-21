@@ -37,8 +37,7 @@
                                                                                  </body>
                <h2> Koenigsegg Agera RS </h2>
     <body>
-             <a href="https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/10q2/339155/2011-hennessey-venom-gt-more-details-first-one-sold-photo-354525-s-original.jpg?fill=2:1&resize=1200:*"
-                                                                                
+             <a href="https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/10q2/339155/2011-hennessey-venom-gt-more-details-first-one-sold-photo-354525-s-original.jpg?fill=2:1&resize=1200:*"                                                                      
                <h2> Hennsesy Venom GT </h2> 
       </body>
     </html>
