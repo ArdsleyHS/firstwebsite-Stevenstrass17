@@ -36,13 +36,8 @@
              <a href="https://www.topspeed.com/cars/the-10-fastest-cars-in-the-world-ranked-ar188274.html"><img src="https://www.thedrive.com/content-b/message-editor%2F1576103142924-2018koenigseggagerarsforsaleonautotraderdec20192.jpg?"
                                                                                  </body>
                <h2> Koenigsegg Agera RS </h2>
-    <body>
-             <a href="https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/10q2/339155/2011-hennessey-venom-gt-more-details-first-one-sold-photo-354525-s-original.jpg?fill=2:1&resize=1200:*"                                                                      
-               <h2> Hennsesy Venom GT </h2> 
-      </body>
-    </html>
-               
-            
-               
-           
-                
+               <body>
+             <a href="https://www.elitetraveler.com/wp-content/uploads/2013/02/hennessey-venom-gt-01_web.gif"
+                                                                                                                </body>                              
+      <h2> Hennsesy Venom GT </h2> 
+                 </html>
